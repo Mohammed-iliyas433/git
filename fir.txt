@@ -1,1 +1,1 @@
-MI
+print("MI")
